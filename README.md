@@ -1,8 +1,8 @@
 ### Olá Conterrâneo(a)! Eu sou Luiz Henrique!
 
 
-- 👨‍💻 | Computer Science Student(2/8) 
-- 💻 | Future Back-End Developer
+- 👨‍💻 | Computer Science Student(3/8) 
+- 💻 | Back-End Developer
 - 🖤 | Love Coding 
 
  <div>
